@@ -1,0 +1,18 @@
+header {
+  height: 55px;
+  background-color: #f55a5a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+header img {
+  width: 24px;
+  height: auto;
+}
+
+header p {
+  color: white;
+  font-size: 14px;
+}
